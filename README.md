@@ -1,4 +1,4 @@
-- 👋 Oi, eu sou Lidine
+- 👋 Oi, eu sou Lidiane
 - 👀 Estou interessada em expandir meus conhecimentos em programação
 - 🌱E atualmente estou estudando para me tornar uma desenvolvedora completa na aréa
 - 💞️ I’m looking to collaborate on ...
